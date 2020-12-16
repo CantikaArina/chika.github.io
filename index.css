@@ -1,0 +1,48 @@
+body{
+    background-color: #dfe8f3;
+}
+img{
+    float: left;
+    margin-right: 5%;
+}
+.bright{
+    margin: 5%;
+    word-spacing: 20px;
+}
+.one{
+    color: grey;
+}
+.satu{
+    background-color: white;
+    padding: 5%;
+    margin-bottom: 5%;
+    margin-left: 0%;
+}
+h1, h2{
+    color: blue;
+    font-family: sans-serif;
+}
+th{
+    border: solid 1px blue;
+    background-color: #ffffff;
+    height: 50px;
+    vertical-align: bottom;
+    padding: 4%;
+    border-collapse: collapse;
+
+}
+#tanah{
+    overflow-y: scroll;
+    width: 800px;
+    height: 450px;
+    padding: 5%;
+    margin-left: 20%;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    line-height: 30px;
+}
+.api{
+    margin-top: 10%;
+}
+
